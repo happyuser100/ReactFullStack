@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/happyuser100/ReactFullStack/static/css/main.9c26e2c6.chunk.css",
+    "main.js": "/happyuser100/ReactFullStack/static/js/main.55adea8a.chunk.js",
+    "main.js.map": "/happyuser100/ReactFullStack/static/js/main.55adea8a.chunk.js.map",
+    "runtime-main.js": "/happyuser100/ReactFullStack/static/js/runtime-main.8c97b119.js",
+    "runtime-main.js.map": "/happyuser100/ReactFullStack/static/js/runtime-main.8c97b119.js.map",
+    "static/css/2.37326f91.chunk.css": "/happyuser100/ReactFullStack/static/css/2.37326f91.chunk.css",
+    "static/js/2.7cf90374.chunk.js": "/happyuser100/ReactFullStack/static/js/2.7cf90374.chunk.js",
+    "static/js/2.7cf90374.chunk.js.map": "/happyuser100/ReactFullStack/static/js/2.7cf90374.chunk.js.map",
+    "index.html": "/happyuser100/ReactFullStack/index.html",
+    "static/css/2.37326f91.chunk.css.map": "/happyuser100/ReactFullStack/static/css/2.37326f91.chunk.css.map",
+    "static/css/main.9c26e2c6.chunk.css.map": "/happyuser100/ReactFullStack/static/css/main.9c26e2c6.chunk.css.map",
+    "static/js/2.7cf90374.chunk.js.LICENSE.txt": "/happyuser100/ReactFullStack/static/js/2.7cf90374.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c97b119.js",
+    "static/css/2.37326f91.chunk.css",
+    "static/js/2.7cf90374.chunk.js",
+    "static/css/main.9c26e2c6.chunk.css",
+    "static/js/main.55adea8a.chunk.js"
+  ]
+}
