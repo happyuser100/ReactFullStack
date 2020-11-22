@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import FleetList from "./components/fleet-list";
+import "./App.css"
+// import '@progress/kendo-theme-default/dist/all.css';
+import '@progress/kendo-theme-bootstrap/dist/all.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends Component {
+
+  render() {
+    return (
+        <React.Fragment>
+          <div className="vessels-app">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
+                  <FleetList />
+                </div>
+              </div>
+            </div>
+          </div>
+        </React.Fragment>
+    );
+  }
 }
-
-export default App;
